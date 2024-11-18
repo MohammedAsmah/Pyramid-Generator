@@ -1,0 +1,10 @@
+*{
+    text-align: center;
+}
+h1{
+    color: green;
+}
+div {
+    display: inline-block;
+    color:rgb(148, 251, 143);
+}
