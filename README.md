@@ -1,2 +1,2 @@
 # Pyramid-Generator
-building a pyramid generator
+Building a pyramid generator, the first project from the FreeCodeCamp JavaScript Algorithms and Data Structures course.
